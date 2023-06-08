@@ -1,7 +1,7 @@
 # HelloWordl! 👋 <h1>
   
 <h4>-  Estudando 📒</h4>
-Data Analyst EBAC 📊
+Fullstack Java EBAC 📊
 <p>NodeJS Udemy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="15" height="15"/> 
 <h4>-  O que eu sei 🤔</h4>
 <div>
