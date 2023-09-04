@@ -2,7 +2,8 @@
   
 <h4>-  Estudando 📒</h4>
 Fullstack Java EBAC 📊
-<p>NodeJS Udemy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="15" height="15"/> 
+<p>Analise de Dados - Coursera - Google
+<p>DIO Pro - Bootcamps voltado para Dados.
 <h4>-  O que eu sei 🤔</h4>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" height="25"/>
