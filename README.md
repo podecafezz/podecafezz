@@ -2,7 +2,7 @@
   
 <h4>-  Estudando 📒</h4>
 Fullstack Java EBAC 📊
-<p>Analise de Dados - Coursera - Google
+Analise de Dados - Coursera - Google
 <p>DIO Pro - Bootcamps voltado para Dados.
 <h4>-  O que eu sei 🤔</h4>
 <div>
